@@ -19,3 +19,4 @@ while chance < 7 :
         break
 if chance >= 7:
     print("game over")
+    print("That number is 30.")
