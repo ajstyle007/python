@@ -1,3 +1,4 @@
+#star pattern with while loop
 n = int(input("enter no. of rows:\n"))
 t = int(input("enter 1 for right pattern or 0 for left pattern:\n"))
 r = 0
