@@ -17,7 +17,5 @@ while chance < 7 :
         print("correct ! yeahh this is the number. ")
         print("you take ",chance,"chance to guess the correct number.")
         break
-    elif chance >= 7:
-        print("game over")
-
-        break
+if chance >= 7:
+    print("game over")
